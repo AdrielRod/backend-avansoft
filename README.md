@@ -1,11 +1,10 @@
-# 📦 Backend - Avontsoft
+# 📦 Backend - Avantsoft
 
 ## 🚀 Tecnologias
 
 - [NestJS](https://nestjs.com/)
 - [TypeORM](https://typeorm.io/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [Jest](https://jestjs.io/)
 - [Docker](https://www.docker.com/)
 
 ---
