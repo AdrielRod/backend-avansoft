@@ -13,7 +13,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/AdrielRod/avantsoft-backend.git
+git clone https://github.com/AdrielRod/backend-avansoft.git
 
 # Acesse a pasta
 cd backend
