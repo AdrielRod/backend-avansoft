@@ -4,7 +4,6 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Client } from 'src/entities/client.entity';
 import { SearchClientsQueryDto } from 'src/modules/client/dtos/search-client-all.dto';
 
-
 @Injectable()
 class SearchClientHandler {
   constructor(

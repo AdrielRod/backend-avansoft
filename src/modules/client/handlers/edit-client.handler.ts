@@ -1,8 +1,6 @@
 import { BadRequestException, Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Client } from 'src/entities/client.entity';
-import { User } from 'src/entities/user.entity';
-import { CreateClientDto } from 'src/modules/client/dtos/create-client.dto';
 import { EditClientBodyDto, EditClientParamDto } from 'src/modules/client/dtos/edit-client.dto';
 import { Repository } from 'typeorm';
 
